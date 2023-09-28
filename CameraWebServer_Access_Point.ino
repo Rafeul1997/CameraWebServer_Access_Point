@@ -14,8 +14,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "ESP32-CAM Access Point";
-const char* password = "123456789";
+const char* ssid = "AP NAME";
+const char* password = "PASSWORD";
 
 void startCameraServer();
 
